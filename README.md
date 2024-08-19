@@ -4,12 +4,12 @@
    **DataSpark**: Illuminating Insights for Global Electronics is a retail analytics project focused on the electronics industry. The aim is to conduct a comprehensive Exploratory Data Analysis (EDA) to uncover valuable insights from Global Electronics' data and provide actionable recommendations to enhance customer satisfaction, optimize operations, and drive business growth.
    
  # Problem Statement
-     As part of Global Electronics' data analytics team, the goal is to analyze data from customers, products, sales, stores, 
+As part of Global Electronics' data analytics team, the goal is to analyze data from customers, products, sales, stores, 
 and currency exchange rates to identify key insights that will enhance marketing strategies, optimize inventory management, 
 improve sales forecasting, and drive overall business growth.
 
 # Tools and Technologies 
-    Before you begin, ensure you have the following installed:
+Before you begin, ensure you have the following installed:
 **Python** : For data cleaning, preparation, and statistical analysis (using libraries like Pandas, NumPy, Matplotlib, Seaborn).
 **SQL** : For data management and querying.
 **Power BI/Tableau** : For creating interactive dashboards and visualizations.
