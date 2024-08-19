@@ -27,7 +27,7 @@ Connect SQL to Power BI/Tableau, import the data, and create interactive dashboa
 Formulate and execute 10 SQL queries to extract key insights from the data. These queries should address important business questions and support the analysis steps below.
 
 # Exploratory Data Analysis (EDA) 
-    Exploratory Data Analysis (EDA) is a crucial initial step in data science projects. It involves analyzing and visualizing data to understand
+Exploratory Data Analysis (EDA) is a crucial initial step in data science projects. It involves analyzing and visualizing data to understand
 its key characteristics, uncover patterns, and identify relationships between variables refers to the method of
 studying and exploring record sets to apprehend their predominant traits, discover patterns, locate outliers, 
 and identify relationships between variables. EDA is normally carried out as a preliminary step before undertaking extra formal statistical analyses or modeling.
