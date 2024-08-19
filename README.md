@@ -1,6 +1,6 @@
 # DataSpark-Illuminating-Insights-for-Global-Electronics
 
-# project overview 
+# Project overview 
    **DataSpark**: Illuminating Insights for Global Electronics is a retail analytics project focused on the electronics industry. The aim is to conduct a comprehensive Exploratory Data Analysis (EDA) to uncover valuable insights from Global Electronics' data and provide actionable recommendations to enhance customer satisfaction, optimize operations, and drive business growth.
    
  # Problem Statement
@@ -43,4 +43,4 @@ Formulate and execute 10 SQL queries to extract key insights from the data. Thes
 [PowerBi Documentation](https://learn.microsoft.com/en-us/power-bi/)
 [EDA Documentation](https://python-data-science.readthedocs.io/en/latest/exploratory.html)
 
-![Visualization](C:\Users\PC\Downloads\PROGRAMS\GLOBAL\Dashboard.png)
+![Visualization](images/Dashboard.png)
