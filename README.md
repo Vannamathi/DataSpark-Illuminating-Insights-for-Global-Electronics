@@ -43,4 +43,4 @@ Formulate and execute 10 SQL queries to extract key insights from the data. Thes
 [PowerBi Documentation](https://learn.microsoft.com/en-us/power-bi/)
 [EDA Documentation](https://python-data-science.readthedocs.io/en/latest/exploratory.html)
 
-![Visualization](images/Dashboard.png)
+![Visualization](Dashboard.png)
