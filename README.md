@@ -27,9 +27,10 @@ Connect SQL to Power BI/Tableau, import the data, and create interactive dashboa
 Formulate and execute 10 SQL queries to extract key insights from the data. These queries should address important business questions and support the analysis steps below.
 
 # Exploratory Data Analysis (EDA) 
-    Exploratory Data Analysis (EDA) is a crucial initial step in data science projects. It involves analyzing and visualizing data to understand its key characteristics, 
-uncover patterns, and identify relationships between variables refers to the method of studying and exploring record sets to apprehend their predominant traits, discover patterns, 
-locate outliers, and identify relationships between variables. EDA is normally carried out as a preliminary step before undertaking extra formal statistical analyses or modeling.
+    Exploratory Data Analysis (EDA) is a crucial initial step in data science projects. It involves analyzing and visualizing data to understand
+its key characteristics, uncover patterns, and identify relationships between variables refers to the method of
+studying and exploring record sets to apprehend their predominant traits, discover patterns, locate outliers, 
+and identify relationships between variables. EDA is normally carried out as a preliminary step before undertaking extra formal statistical analyses or modeling.
 
 # Strategic Use Cases
 **Marketing Optimization**: Fine-tune marketing strategies by aligning with customer demographics and purchasing behaviors.
@@ -39,9 +40,11 @@ locate outliers, and identify relationships between variables. EDA is normally c
 **Pricing Strategy**: Optimize international pricing by understanding the interplay between currency exchange rates and sales performance.
 
 # conclusion:
-    Upon completion of the project, learners are expected to deliver a comprehensive Exploratory Data Analysis (EDA) report for Global Electronics, featuring clean and integrated datasets, in-depth insights into customer demographics, purchasing behaviors, product performance, store operations, and currency impact on sales. 
-    The report will include visually compelling visualizations and actionable recommendations tailored to enhance marketing strategies, optimize inventory management, improve sales forecasting, guide product development, and inform store expansion and operational decisions.
-    This analysis will empower Global Electronics to increase customer satisfaction, maximize revenue, and drive overall business growth.
+    Upon completion of the project, learners are expected to deliver a comprehensive Exploratory Data Analysis (EDA) report for Global Electronics, 
+featuring clean and integrated datasets, in-depth insights into customer demographics, purchasing behaviors, product performance, store operations, 
+and currency impact on sales. The report will include visually compelling visualizations and actionable recommendations tailored to enhance 
+marketing strategies, optimize inventory management, improve sales forecasting, guide product development, and inform store expansion and operational decisions.
+This analysis will empower Global Electronics to increase customer satisfaction, maximize revenue, and drive overall business growth.
 
 # References
 [Python Documentation](https://docs.python.org/3/)
