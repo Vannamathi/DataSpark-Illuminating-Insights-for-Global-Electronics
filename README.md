@@ -40,7 +40,7 @@ and identify relationships between variables. EDA is normally carried out as a p
 **Pricing Strategy**: Optimize international pricing by understanding the interplay between currency exchange rates and sales performance.
 
 # conclusion:
-    Upon completion of the project, learners are expected to deliver a comprehensive Exploratory Data Analysis (EDA) report for Global Electronics, 
+Upon completion of the project, learners are expected to deliver a comprehensive Exploratory Data Analysis (EDA) report for Global Electronics, 
 featuring clean and integrated datasets, in-depth insights into customer demographics, purchasing behaviors, product performance, store operations, 
 and currency impact on sales. The report will include visually compelling visualizations and actionable recommendations tailored to enhance 
 marketing strategies, optimize inventory management, improve sales forecasting, guide product development, and inform store expansion and operational decisions.
